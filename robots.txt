@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Budkhuu976.github.io/handbook-mtp0us/sitemap.xml
